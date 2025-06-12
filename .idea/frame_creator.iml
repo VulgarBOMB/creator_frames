@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/telemetry_frames" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.13 (frame_creator)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
